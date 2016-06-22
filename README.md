@@ -1,2 +1,1 @@
-# php-sdk
-PHP SDK for Fident
+# PHP SDK for Fident

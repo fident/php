@@ -1,0 +1,17 @@
+{
+  "name": "fident/php",
+  "description": "Fident PHP Library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Brooke Bryan",
+      "email": "brooke@bajb.net"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Fident\\Php\\": "src/"
+    }
+  }
+}
