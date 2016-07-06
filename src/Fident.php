@@ -15,7 +15,12 @@ class Fident
 
   public function getUserId()
   {
-    return '1234';
+    return 'user-1234';
+  }
+
+  public function getOrgId()
+  {
+    return 'organisation-id';
   }
 
   public function getUser()
